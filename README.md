@@ -9,6 +9,8 @@ File Pilot is a fast Windows file manager by Voidstar. As of File Pilot `0.7.0`,
 
 This repository does not include File Pilot itself and does not redistribute any File Pilot binaries.
 
+![File Pilot with Russian UI strings](docs/filepilot-ru-options.jpg)
+
 ## Status
 
 - Target app version: File Pilot `0.7.0` beta.
@@ -81,7 +83,7 @@ I could not find a public source repository for File Pilot at the time this pack
 
 The Russian translation, packaging, publication notes, and installation instructions were prepared with the help of Codex.
 
-Please review the strings before relying on them in a production or work-critical setup. If something is mistranslated or the patcher misses a visible string, open an issue with a screenshot and the original English text.
+Please review the strings before relying on them in a production or work-critical setup.
 
 ## Keywords
 
