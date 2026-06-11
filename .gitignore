@@ -1,0 +1,9 @@
+backups/
+reports/
+*.exe
+*.zip
+*.7z
+*.rar
+*.log
+__pycache__/
+
