@@ -64,7 +64,7 @@ You can also reinstall File Pilot from the official download page.
 
 ## Warnings
 
-- This is an unofficial community localization.
+- This is an unofficial fan-made localization.
 - It is not affiliated with File Pilot, Voidstar, or the File Pilot developer.
 - The patcher modifies your local executable. Use it at your own risk.
 - File Pilot updates may overwrite the patch.
